@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 new file
 =======
 modified that file
+>>>>>>> new
+=======
+:)
 >>>>>>> new
